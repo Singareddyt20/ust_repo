@@ -1,0 +1,2 @@
+This file for merge practice.
+123456
